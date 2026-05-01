@@ -152,3 +152,4 @@ app/
 
 SQLite lokal ishga tushirish uchun yetarli. Production muhitda PostgreSQLga o‘tish uchun `DATABASE_URL` ni async PostgreSQL URL ga almashtiring va Alembic migratsiyalarini qo‘shing.
 # aichatbot
+# aichatbot
