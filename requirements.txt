@@ -1,0 +1,9 @@
+aiogram>=3.7,<4.0
+SQLAlchemy>=2.0,<3.0
+aiosqlite>=0.19
+pydantic>=2.6
+pydantic-settings>=2.2
+python-dotenv>=1.0
+httpx>=0.27
+Telethon>=1.36
+cryptography>=42.0
